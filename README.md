@@ -1,7 +1,7 @@
 # TextMining_Apple_NLP  
 
 ## Goal:  
-Find the most frequently used words in the Apple iPad Pro 2020 webpage
+Find the most frequently used words in the Apple iPad Pro 2020 webpage using BeautifulSoup, nltk, re, spacy, and matplotlib.
 
 ## Website Used:  
 https://www.apple.com/ipad-pro/
